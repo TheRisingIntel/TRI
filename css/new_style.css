@@ -114,12 +114,12 @@ section{
 }
 .home .content p{
     border-radius: 10%;
-    margin-bottom: 5px;
+    margin-bottom: 50px;
     color: rgb(13, 16, 212);
     font-style: italic;
     font-size: 15px;
     background-color:#fff;
-    opacity: 55%;
+    opacity: 85%;
     padding-left: 2%;
 }
 .home .content p:hover{
@@ -138,7 +138,7 @@ section{
     text-decoration: none;
     border-radius: 40%;
     background-color:#fff;
-    opacity: 55%;
+    opacity: 85%;
 }
 
 .home .content a:hover{
